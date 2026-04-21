@@ -1,0 +1,25 @@
+# Agent config (tidak perlu di repo)
+.agent/
+
+# Jurnal Pendukung (file pribadi)
+Jurnal Pendukung/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docs internal
+docs/
